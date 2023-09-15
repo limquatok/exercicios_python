@@ -2,4 +2,4 @@ Olá, Bem-vindo ao meu repositório de exercícios em python. Nesse repositório
 
 link do livro: https://automatetheboringstuff.com/
 
-Lembrando que eu posso deixar um arquivo de comentario sobre o codigo da vez, exemplo eu tenho o arquivo r_l_m.py todo comentando e o arquivo sem comentario é o r_l_m_semcomentario.py. 
+Lembrando que eu posso deixar um arquivo de comentario sobre o codigo da vez, exemplo eu tenho o arquivo r_l_m.py todo comentado, e o arquivo sem comentario é o, r_l_m_semcomentario.py. 
