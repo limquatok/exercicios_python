@@ -1,0 +1,22 @@
+*** Aqui é os comentarios do exercio de xadrez.py, esse exercio e do livro python, que eu já
+falei no readme, e nesse exercio eu fiz algumas anotaçoes do que o exercicio estava pedindo 
+(lembrando que fui extraindo as informações de acordo com  o que eu entendia :D, esta tudo aqui em baixo), 
+e fui seguindo com o codigo de acordo com o que foi pedido. ***
+
+#1º Escreva uma função que recebe um argumento de dicionario e retorna 
+# true ou false,dependendo se o tabuleiro é valido.
+
+
+#2º um tabuleiro valido terá exatamente um rei preto e um rei branco.
+
+#3º cada jogador poderá ter no maximo 8 peões.
+
+#4º todas as peças devem estar em um espaço valido de a1 a h8,
+#ou seja não pode sair dos quadrados do tabuleiro, tipo 9z.
+
+#5º os nomes das peças começam com 'w' ou 'b' para representar braco ou preto
+#seguido por 'peão','cavaleiro','bispo',torre,'rainha' ou rei.
+
+
+#6º a função deve detectar quando um bug resultou em um tabuleiro de xadrez
+# improprio.
